@@ -4,11 +4,11 @@ using System.Text;
 
 namespace ConsoleApp1
 {
-    class Circle
+    class Circle: Shapes
     {
         public double radius;
 
-        public Circle(double radius)
+        public Circle(double radius,int edges) : base(edges)
         {
             this.radius = radius;
         }
