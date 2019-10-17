@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Prachi\\C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Prachi\\C#\\OverLoading\\CS_overloading\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Prachi\\C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Prachi\\C#\\OverLoading\\CS_overloading\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Prachi\\C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Prachi\\C#\\OverLoading\\CS_overloading\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Prachi\\C#\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Prachi\\C#\\OverLoading\\CS_overloading\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\prachibhushan\\.nuget\\packages\\",
-        "outputPath": "C:\\Prachi\\C#\\ConsoleApp1\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Prachi\\C#\\OverLoading\\CS_overloading\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\prachibhushan\\AppData\\Roaming\\NuGet\\NuGet.Config",
